@@ -1,0 +1,130 @@
+body{
+    background-color:#309ED5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.homework1{
+    width: 1000px;
+    height: 1000px;
+  margin: 0 auto;
+    background-color: palegoldenrod;   
+}
+div.head_box{
+    height: 10%;
+    background-color: black;
+}
+div.menulist{
+    height: 4%;
+    background-color:#073044;
+}
+div.content{
+    height: 70%;
+    background-color:green;
+}
+div.content_box1{
+    width: 65%;
+    height: 100%;
+    background-color: antiquewhite;
+  float: left;
+  padding: 15px;
+}
+div.content_box2{
+    width: 32%;
+    height: 730px;
+    background-color: antiquewhite;
+   float: left;
+ 
+}
+div.footer{
+    height: 20%;
+    background-color: black;
+}
+div.footer_box1{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+div.footer_box2{
+    width: 33.33%;
+    height: 100%;
+ 
+    float: left;
+    text-align: center;
+}
+div.footer_box3{
+    width: 33.33%;
+    height: 100%;
+  
+    float: left;
+    text-align: center;
+}
+h2.companyname{
+    color: white;
+ padding-top: 25px;
+ padding-left: 10px;
+ margin-bottom: 0px;
+}
+span.color{
+    color: #309ED5;
+}
+h6{
+    color: #979898;
+    margin-top: 0px;
+    padding-left: 10px;
+}
+li a{
+    color: #979898;
+    text-decoration: none;
+ padding: 15px;
+}
+ li.listmenu{
+   display: inline-block;
+   margin-top:10px;
+}
+li.select a{
+   color: white;
+}
+p.style{
+  font-style:italic;
+  margin-top:0px;
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+h2.header1{
+   margin-top:0px;
+   margin-bottom: 0px;
+}
+h2.header2{
+  
+   margin-bottom: 0px;
+}
+a{
+   color: #42D1D1;
+}
+button{
+background-color: #309ED5; /* Green */
+border: none;
+color: white;
+padding: 5px 10px;
+text-align: center;
+font-size: 12px;
+border-radius: 3px;
+cursor: pointer;
+}
+h3{
+  color: #309ED5;
+}
+p.head{
+background-color: #309ED5; 
+border: none;
+color: white;
+padding: 10px 5px;
+width: 95%;
+}
+u{
+  font-size: 15px;
+ 
+}
+u.footer{
+  color: #979898;
+}

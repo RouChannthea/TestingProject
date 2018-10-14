@@ -1,0 +1,64 @@
+div.team {
+    width: 1000px;
+    height: 550px;
+    margin: 0 auto;
+background-color: white;
+}
+
+div.team_title {
+    width: 1000px;
+    height: 150px;
+
+}
+
+div.team_content {
+    width: 1000px;
+    height: 400px;
+}
+
+div.team_content1 {
+    width: 333px;
+    height: 400px;
+    float: left;
+
+}
+
+div.team_content2 {
+    width: 333px;
+    height: 400px;
+    float: left;
+}
+
+div.team_content3 {
+    width: 334px;
+    height: 400px;
+    float: left;
+}
+
+.h1_team {
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 0px;
+}
+
+.p_team {
+    text-align: center;
+    color: gray;
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.img_team {
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+    padding-bottom: 0px;
+    border-bottom: 2px solid red;
+
+}
+
+.h4_team {
+    text-align: center;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,32 @@
+div.client{
+    width: 1000px;
+    height: 200px;
+  background-color: white;
+    margin: 0 auto;
+}
+div.client_header{
+    width: 1000px;
+    height: 100px;
+   
+   
+}
+div.client_content{
+    width: 1000px;
+    height: 100px;
+    background-color: red;
+   
+}
+.h1_client{
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+    margin-top: 0px;
+}
+.img_client{
+    display: inline-block;
+    margin: 30px;
+    margin-left: 50px;
+  width: 150px;
+  height: 30px;
+
+}

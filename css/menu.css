@@ -1,0 +1,43 @@
+div.menu {
+    width: 1000px;
+    height: 80px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+div.menu_pic {
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+
+div.menu_list {
+    width: 70%;
+    height: 80px;
+    float: left;
+}
+
+.img_menu {
+    padding: 8%;
+}
+
+.li_menu {
+    display: inline-block;
+}
+
+.a_menu {
+    text-decoration: none;
+    margin: 8px;
+    color: black;
+
+
+}
+
+.ul_menu {
+    margin-top: 30px;
+
+}
+
+ul li.li_menu.style a.a_menu {
+    color: red;
+}
